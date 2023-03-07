@@ -1,0 +1,9 @@
+{
+    "time": "{0}",
+    "eventTypeCode": "{event}",
+    "sourceTypeCode": "{1}",
+    "contentItemId" : {2},
+    "values": [
+        {3}
+    ]
+}

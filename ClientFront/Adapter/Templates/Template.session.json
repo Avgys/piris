@@ -1,0 +1,21 @@
+{
+    "session": {
+        "InstallationId": "{0}",
+        "clientIp": "{1}",
+        "AppVersion": "{2}",
+        "AppLanguage": "{3}",
+        "deviceModel": "{4}",
+        "deviceManufacturer": "{5}",
+        "deviceLanguage": "{6}",
+        "os": "{7}",
+        "region": "{8}",
+        "userAgent": "{9}",
+        "SessionVersion": "{10}",
+        "AppName": "{11}",
+        "OffSetFromUTC": "{12}",
+        "AttemptsCount" : {13}
+    },
+    "events": [
+        {14}
+    ]
+}

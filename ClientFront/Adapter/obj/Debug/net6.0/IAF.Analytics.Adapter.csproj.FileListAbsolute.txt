@@ -1,0 +1,16 @@
+C:\Users\ilyuh\source\repos\jch\src\IAF.Analytics.Adapter\bin\Debug\net6.0\Templates\Template.event.json
+C:\Users\ilyuh\source\repos\jch\src\IAF.Analytics.Adapter\bin\Debug\net6.0\Templates\Template.session.json
+C:\Users\ilyuh\source\repos\jch\src\IAF.Analytics.Adapter\bin\Debug\net6.0\Templates\Template.valuenoquotes.json
+C:\Users\ilyuh\source\repos\jch\src\IAF.Analytics.Adapter\bin\Debug\net6.0\Templates\Template.valuequotes.json
+C:\Users\ilyuh\source\repos\jch\src\IAF.Analytics.Adapter\bin\Debug\net6.0\IAF.Analytics.Adapter.deps.json
+C:\Users\ilyuh\source\repos\jch\src\IAF.Analytics.Adapter\bin\Debug\net6.0\IAF.Analytics.Adapter.dll
+C:\Users\ilyuh\source\repos\jch\src\IAF.Analytics.Adapter\bin\Debug\net6.0\IAF.Analytics.Adapter.pdb
+C:\Users\ilyuh\source\repos\jch\src\IAF.Analytics.Adapter\obj\Debug\net6.0\IAF.Analytics.Adapter.csproj.AssemblyReference.cache
+C:\Users\ilyuh\source\repos\jch\src\IAF.Analytics.Adapter\obj\Debug\net6.0\IAF.Analytics.Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyuh\source\repos\jch\src\IAF.Analytics.Adapter\obj\Debug\net6.0\IAF.Analytics.Adapter.AssemblyInfoInputs.cache
+C:\Users\ilyuh\source\repos\jch\src\IAF.Analytics.Adapter\obj\Debug\net6.0\IAF.Analytics.Adapter.AssemblyInfo.cs
+C:\Users\ilyuh\source\repos\jch\src\IAF.Analytics.Adapter\obj\Debug\net6.0\IAF.Analytics.Adapter.csproj.CoreCompileInputs.cache
+C:\Users\ilyuh\source\repos\jch\src\IAF.Analytics.Adapter\obj\Debug\net6.0\IAF.Analytics.Adapter.dll
+C:\Users\ilyuh\source\repos\jch\src\IAF.Analytics.Adapter\obj\Debug\net6.0\refint\IAF.Analytics.Adapter.dll
+C:\Users\ilyuh\source\repos\jch\src\IAF.Analytics.Adapter\obj\Debug\net6.0\IAF.Analytics.Adapter.pdb
+C:\Users\ilyuh\source\repos\jch\src\IAF.Analytics.Adapter\obj\Debug\net6.0\ref\IAF.Analytics.Adapter.dll

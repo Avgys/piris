@@ -1,0 +1,16 @@
+C:\Users\ilyuh\RiderProjects\ClientFront\Adapter\bin\Debug\net6.0\Templates\Template.event.json
+C:\Users\ilyuh\RiderProjects\ClientFront\Adapter\bin\Debug\net6.0\Templates\Template.session.json
+C:\Users\ilyuh\RiderProjects\ClientFront\Adapter\bin\Debug\net6.0\Templates\Template.valuenoquotes.json
+C:\Users\ilyuh\RiderProjects\ClientFront\Adapter\bin\Debug\net6.0\Templates\Template.valuequotes.json
+C:\Users\ilyuh\RiderProjects\ClientFront\Adapter\bin\Debug\net6.0\Adapter.deps.json
+C:\Users\ilyuh\RiderProjects\ClientFront\Adapter\bin\Debug\net6.0\Adapter.dll
+C:\Users\ilyuh\RiderProjects\ClientFront\Adapter\bin\Debug\net6.0\Adapter.pdb
+C:\Users\ilyuh\RiderProjects\ClientFront\Adapter\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
+C:\Users\ilyuh\RiderProjects\ClientFront\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyuh\RiderProjects\ClientFront\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\ilyuh\RiderProjects\ClientFront\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+C:\Users\ilyuh\RiderProjects\ClientFront\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\ilyuh\RiderProjects\ClientFront\Adapter\obj\Debug\net6.0\Adapter.dll
+C:\Users\ilyuh\RiderProjects\ClientFront\Adapter\obj\Debug\net6.0\refint\Adapter.dll
+C:\Users\ilyuh\RiderProjects\ClientFront\Adapter\obj\Debug\net6.0\Adapter.pdb
+C:\Users\ilyuh\RiderProjects\ClientFront\Adapter\obj\Debug\net6.0\ref\Adapter.dll
